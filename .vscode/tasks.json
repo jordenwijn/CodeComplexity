@@ -9,7 +9,7 @@
         "-g",
         "-o",
         "CodeAnalyzer",
-        "CodeAnalyzer.cpp"
+        "src/CodeAnalyzer.cpp"
       ],
       "group": {
         "kind": "build",
